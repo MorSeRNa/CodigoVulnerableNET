@@ -1,0 +1,5 @@
+C:\Users\Mora\Desktop\Avanzado\InputInseguro\InputInseguro\obj\Debug\net8.0\InputInseguro.csproj.AssemblyReference.cache
+C:\Users\Mora\Desktop\Avanzado\InputInseguro\InputInseguro\obj\Debug\net8.0\InputInseguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mora\Desktop\Avanzado\InputInseguro\InputInseguro\obj\Debug\net8.0\InputInseguro.AssemblyInfoInputs.cache
+C:\Users\Mora\Desktop\Avanzado\InputInseguro\InputInseguro\obj\Debug\net8.0\InputInseguro.AssemblyInfo.cs
+C:\Users\Mora\Desktop\Avanzado\InputInseguro\InputInseguro\obj\Debug\net8.0\InputInseguro.csproj.CoreCompileInputs.cache

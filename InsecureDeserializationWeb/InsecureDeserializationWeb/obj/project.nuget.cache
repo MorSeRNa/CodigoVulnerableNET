@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0LzNa39DbRvPYMxwScIVfOHTXPdk01ERRYvxu3WXMYSXyI2KN35gVKofHKuT6RyZo/CrQCtFi0OlY4Tz2Xi3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mora\\Desktop\\Avanzado\\InsecureDeserializationWeb\\InsecureDeserializationWeb\\InsecureDeserializationWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mora\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

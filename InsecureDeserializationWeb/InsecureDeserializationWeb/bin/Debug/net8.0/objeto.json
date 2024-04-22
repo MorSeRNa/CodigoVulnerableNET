@@ -1,0 +1,4 @@
+{
+  "Name": "Usuario Ejemplo",
+  "Bio": "<script>alert('XSS Attack!');</script>"
+}

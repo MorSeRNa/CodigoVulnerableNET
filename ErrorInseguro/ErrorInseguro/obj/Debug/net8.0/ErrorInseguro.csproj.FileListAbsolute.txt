@@ -1,0 +1,14 @@
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\bin\Debug\net8.0\ErrorInseguro.exe
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\bin\Debug\net8.0\ErrorInseguro.deps.json
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\bin\Debug\net8.0\ErrorInseguro.runtimeconfig.json
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\bin\Debug\net8.0\ErrorInseguro.dll
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\bin\Debug\net8.0\ErrorInseguro.pdb
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.AssemblyInfoInputs.cache
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.AssemblyInfo.cs
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.csproj.CoreCompileInputs.cache
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.dll
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\refint\ErrorInseguro.dll
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.pdb
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ErrorInseguro.genruntimeconfig.cache
+C:\Users\Mora\Desktop\Avanzado\ErrorInseguro\ErrorInseguro\obj\Debug\net8.0\ref\ErrorInseguro.dll

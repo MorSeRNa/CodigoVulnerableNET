@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mora\\Desktop\\Avanzado\\ErrorInseguro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18C6BE9-2797-4468-BB84-40D836B74D4E}|ErrorInseguro\\ErrorInseguro.csproj|c:\\users\\mora\\desktop\\avanzado\\errorinseguro\\errorinseguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18C6BE9-2797-4468-BB84-40D836B74D4E}|ErrorInseguro\\ErrorInseguro.csproj|solutionrelative:errorinseguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\ErrorInseguro\\ErrorInseguro\\Program.cs",
+              "RelativeDocumentMoniker": "ErrorInseguro\\Program.cs",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\ErrorInseguro\\ErrorInseguro\\Program.cs",
+              "RelativeToolTip": "ErrorInseguro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:45:30.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

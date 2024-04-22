@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorInseguro", "ErrorInseguro\ErrorInseguro.csproj", "{A18C6BE9-2797-4468-BB84-40D836B74D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18C6BE9-2797-4468-BB84-40D836B74D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18C6BE9-2797-4468-BB84-40D836B74D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18C6BE9-2797-4468-BB84-40D836B74D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18C6BE9-2797-4468-BB84-40D836B74D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7BA4CD3-7F6F-4BA0-9CED-94E5905E5F86}
+	EndGlobalSection
+EndGlobal

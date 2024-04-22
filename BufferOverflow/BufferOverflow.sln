@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BufferOverflow", "BufferOverflow\BufferOverflow.csproj", "{B8D594EE-D4A2-4900-A77E-D4ED1D6DF51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D594EE-D4A2-4900-A77E-D4ED1D6DF51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D594EE-D4A2-4900-A77E-D4ED1D6DF51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D594EE-D4A2-4900-A77E-D4ED1D6DF51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D594EE-D4A2-4900-A77E-D4ED1D6DF51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03B3B2C-9FC5-4667-9127-7F4755CF3E86}
+	EndGlobalSection
+EndGlobal
