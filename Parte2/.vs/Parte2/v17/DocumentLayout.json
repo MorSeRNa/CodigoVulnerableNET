@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|c:\\users\\mora\\desktop\\avanzado\\parte2\\parte2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|solutionrelative:parte2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|c:\\users\\mora\\desktop\\avanzado\\parte2\\parte2\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|solutionrelative:parte2\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|c:\\users\\mora\\desktop\\avanzado\\parte2\\parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|solutionrelative:parte2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|c:\\users\\mora\\desktop\\avanzado\\parte2\\parte2\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|solutionrelative:parte2\\data\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|c:\\users\\mora\\desktop\\avanzado\\parte2\\parte2\\controller\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|solutionrelative:parte2\\controller\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|c:\\users\\mora\\desktop\\avanzado\\parte2\\parte2\\parte2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30D35992-A0DA-45B1-AD96-815E3276EF6D}|Parte2\\Parte2.csproj|solutionrelative:parte2\\parte2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Startup.cs",
+              "RelativeDocumentMoniker": "Parte2\\Startup.cs",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Startup.cs",
+              "RelativeToolTip": "Parte2\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:11:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Controller\\TodoController.cs",
+              "RelativeDocumentMoniker": "Parte2\\Controller\\TodoController.cs",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Controller\\TodoController.cs",
+              "RelativeToolTip": "Parte2\\Controller\\TodoController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwC8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:09:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Data\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Parte2\\Data\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Data\\TodoContext.cs",
+              "RelativeToolTip": "Parte2\\Data\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:08:35.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItems.cs",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Models\\TodoItems.cs",
+              "RelativeDocumentMoniker": "Parte2\\Models\\TodoItems.cs",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Models\\TodoItems.cs",
+              "RelativeToolTip": "Parte2\\Models\\TodoItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:08:07.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parte2",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Parte2.csproj",
+              "RelativeDocumentMoniker": "Parte2\\Parte2.csproj",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Parte2.csproj",
+              "RelativeToolTip": "Parte2\\Parte2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T07:07:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Program.cs",
+              "RelativeDocumentMoniker": "Parte2\\Program.cs",
+              "ToolTip": "C:\\Users\\Mora\\Desktop\\Avanzado\\Parte2\\Parte2\\Program.cs",
+              "RelativeToolTip": "Parte2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:05:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
